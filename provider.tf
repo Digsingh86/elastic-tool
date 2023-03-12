@@ -1,3 +1,3 @@
-provider "jenkings" {
+provider "aws" {
   region = "ap-southeast-1"
 }
